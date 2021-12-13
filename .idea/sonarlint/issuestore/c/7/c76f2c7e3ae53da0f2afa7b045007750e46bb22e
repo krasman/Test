@@ -1,0 +1,17 @@
+
+R
+java:S1066¬"/Merge this if statement with the enclosing one.(º—Ì½ùÿÿÿÿ8ÖŞæÜÚ/
+r	java:S117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ„œ¼şÿÿÿÿ8ë¤óÛÚ/
+l	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓŒÖ_8ë¤óÛÚ/
+r	java:S117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§‡×Ôşÿÿÿÿ8ë¤óÛÚ/
+n
+java:S1192W"LDefine a constant instead of duplicating this literal "mainButtons" 9 times.(¦ŒÓ°úÿÿÿÿ8¥ÚçÛÚ/
+l
+java:S1192S"JDefine a constant instead of duplicating this literal "addButton" 8 times.(¡ÑÅšúÿÿÿÿ8„ŒıÛÚ/
+E
+java:S1948"(Make "layout" transient or serializable.(ç°8şÀøÛÚ/
+m	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Õ„8ë¤óÛÚ/
+”
+java:S1319 "rThe type of the "figures" object should be an interface such as "List" rather than the implementation "ArrayList".(ŒÆ©Çÿÿÿÿÿ8¹îŒÜÚ/
+w
+java:S1192£"TDefine a constant instead of duplicating this literal "addButtonComponents" 3 times.(îí—Ôÿÿÿÿÿ8ÖŞæÜÚ/

@@ -1,0 +1,11 @@
+
+…
+java:S1319"qThe type of the "points" object should be an interface such as "List" rather than the implementation "ArrayList".(¸ˆ¬‘
+„
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(–Ÿ±–
+d
+java:S1104"PMake area a static final constant or non-public and provide accessors if needed.(ÓƒúŽ
+m
+java:S1104"TMake perimetr a static final constant or non-public and provide accessors if needed.(“ž†·üÿÿÿÿ
+;
+java:S1659""Declare "sumY" on a separate line.(åË¼”ÿÿÿÿÿ
